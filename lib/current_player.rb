@@ -1,6 +1,6 @@
 def turn_count(board)
   board = []
-  count = 0
+  counter = 0
   
 end
 
